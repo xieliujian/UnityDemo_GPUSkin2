@@ -1,0 +1,3 @@
+[submodule "Packages/com.spacetime.gpuskin"]
+	path = Packages/com.spacetime.gpuskin
+	url = git@github.com:xieliujian/com.spacetime.gpuskin.git
