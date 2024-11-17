@@ -60,11 +60,11 @@ public class GPUSkinTest : MonoBehaviour
             float z = Random.Range(-5f, 5f);
             instGo.transform.localPosition = new Vector3(x, 0f, z);
 
-            var script = instGo.GetComponentInChildren<GPUSkinPlayerBase>();
-            if (script != null)
-            {
-                script.RandomPlay();
-            }
+            //var script = instGo.GetComponentInChildren<GPUSkinPlayerBase>();
+            //if (script != null)
+            //{
+            //    script.RandomPlay();
+            //}
         }
     }
 }

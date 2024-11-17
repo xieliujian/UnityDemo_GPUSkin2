@@ -389,8 +389,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: -10}
+  m_LocalRotation: {x: -0.30020007, y: 0.25400445, z: -0.08327596, w: -0.9156565}
+  m_LocalPosition: {x: 4.8712583, y: 6.345892, z: -8.72094}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -458,8 +458,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99d42759c3528cc4aa64e4087a219555, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gpuSkinGo1: {fileID: 7723332804458518594, guid: 6cfcfa6dc1c5f52479f0fe202d05a7dc, type: 3}
-  gpuSkinGo2: {fileID: 4474423870933538867, guid: 982fa51fae57a61499a0ba1e6fdbcac6, type: 3}
+  gpuSkinGo1: {fileID: 5867732480032523884, guid: 6b3c9a1f459a17942adfbc96c8b5a1b8, type: 3}
+  gpuSkinGo2: {fileID: 3347232742449687880, guid: 9427b151ce36e0243a8a5f11b7f96233, type: 3}
 --- !u!4 &1598329314
 Transform:
   m_ObjectHideFlags: 0
