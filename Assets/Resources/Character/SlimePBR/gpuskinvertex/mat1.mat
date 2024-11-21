@@ -13,7 +13,7 @@ Material:
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 1
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: -1
+  m_CustomRenderQueue: 3000
   stringTagMap: {}
   disabledShaderPasses: []
   m_SavedProperties:
@@ -28,9 +28,15 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
+    - _AlphaClip: 0.5
     - _CurFrame: 0
     - _CurFrameCount: 30
     - _CurFramePixelIndex: 0
-    - _VertexCount: 749
+    - _DstBlend: 10
+    - _SrcBlend: 5
+    - _VertexCount: 0
+    - _ZClip: 1
+    - _ZTest: 4
+    - _ZWrite: 1
     m_Colors: []
   m_BuildTextureStacks: []
